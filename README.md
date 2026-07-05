@@ -1,16 +1,21 @@
-## Hi there 👋
+# Auriane Bouaziz
 
-<!--
-**auriane-bouaziz/auriane-bouaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business & Operations Analyst | Data Analytics**
 
-Here are some ideas to get you started:
+I use commercial, inventory and logistics data to support pricing, profitability and operational decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+SQL · Python · Excel · Power BI · Business Intelligence
+
+## Background
+- 6+ years of experience across sales operations, purchasing, inventory and margin analysis
+- Built Excel cost models and interactive dashboards for pricing and profitability tracking
+- Global MBA in Big Data, Reichman University
+- Currently completing an AI-Powered Data Analytics Bootcamp at Developers Institute
+
+## Current projects
+- Content recommendation analysis with Python, Pandas and statistical testing
+- Film ROI prediction project
+- Business analytics and dashboard projects
+
+[LinkedIn](https://www.linkedin.com/in/auriane-bouaziz)
