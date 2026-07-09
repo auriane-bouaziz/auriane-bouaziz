@@ -15,7 +15,7 @@ SQL · Python · Excel · Power BI · Business Intelligence
 
 ## Current projects
 - Content recommendation analysis with Python, Pandas and statistical testing
-- Film ROI prediction project
-- Business analytics and dashboard projects
+- Data analytics coursework in SQL, Python and machine learning
+- Building a machine learning portfolio project focused on business decision-making
 
 [LinkedIn](https://www.linkedin.com/in/auriane-bouaziz)
